@@ -1,5 +1,7 @@
 # Master Process Flow - Homen Shum
 
+Demo: https://oval-brain-91c.notion.site/Presenting-Solution-to-NuHarbor-Cybersecurity-021332181890431c975dc1f5a07f014e
+
 > The goal is to **create a model that learns from the alerts** what the equivalent alert is in Microsoft Defender for Endpoint vs in CrowdStrike Falcon. The **anticipated result** is the common ontology, or common **language to refer to and describe the same alert from different vendors.**
 > 
 1. Data Cleansing: Removed irrelevant keys from the JSON strings in All folder, 14 files did not have JSON at the end of them so I manually added the “.json”
