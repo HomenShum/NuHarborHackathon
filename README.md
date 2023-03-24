@@ -1,4 +1,4 @@
-# Master Process Flow
+# Master Process Flow - Homen Shum
 
 > The goal is to **create a model that learns from the alerts** what the equivalent alert is in Microsoft Defender for Endpoint vs in CrowdStrike Falcon. The **anticipated result** is the common ontology, or common **language to refer to and describe the same alert from different vendors.**
 > 
