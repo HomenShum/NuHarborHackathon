@@ -14,6 +14,7 @@ Result so far, all of the alert event contents in each dictionary within the All
 Side Notes:
 - Semantic Search was not necessary, it took longer and was not generating better result than a simple key word match program.
 - Prompt-Engineering was the main contributor to the result.
+- Will upload the All, All-CS, and All-MS folders to google drive 
 
 # Original Prompt
 Hello and welcome to the coding part of the challenge.  This will be your guide for working with the data. Please reach out via the Discord channel if you have any questions or issues
